@@ -1,1 +1,1 @@
-# lipspace
+# project inventory management
